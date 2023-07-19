@@ -2,3 +2,5 @@
 
 - [Rules](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
 - [Replit](https://replit.com/@iruminii/boilerplate-mean-variance-standard-deviation-calculator)
+
+![mean variance standard deviation](/mvstd_calc/std.png)
